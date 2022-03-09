@@ -5,7 +5,8 @@
   "author": "Xiaoguang Li <xiaoguang.dev@hotmail.com>",
   "keywords": [
     "typescript",
-    "ipfs"
+    "ipfs",
+    "web3"
   ],
   "scripts": {
     "upload": "ts-node src/upload.ts",
